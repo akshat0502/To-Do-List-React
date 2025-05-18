@@ -1,6 +1,6 @@
 # React + Vite
 <h1>
-  <a href = "https://to-do-list-react-six-lime.vercel.app/">To_Do_List_React</a>
+  <a href = "https://to-do-list-react-six-lime.vercel.app/">To Do List using React</a>
 </h1>
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

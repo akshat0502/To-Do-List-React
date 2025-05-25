@@ -8,7 +8,9 @@ This template provides a minimal setup to get React working in Vite with HMR and
 <ol>
             <li><b>Install Node.js:</b> Download and install Node.js from <a href="https://nodejs.org/">https://nodejs.org/</a>.</li>
 Currently, two official plugins are available:
-
+<li><b>Create a React App:</b>
+                <pre><code>npx create-react-app todo-list</code></pre>
+            </li>
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 

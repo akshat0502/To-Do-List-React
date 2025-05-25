@@ -4,6 +4,8 @@
 <p>This guide outlines how to create a To-Do List application using React JS. This app will include features to add, remove, and mark tasks as complete. It will also include media support with images and videos.</p>
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+<h2>Steps to Build and Run:</h2>
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh

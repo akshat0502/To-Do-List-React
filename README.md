@@ -19,7 +19,13 @@ Currently, two official plugins are available:
             </li>
         </ol>
         h2>Core Features to Implement:</h2>
-        
+        <ul>
+            <li>Add task</li>
+            <li>Delete task</li>
+            <li>Mark task as completed</li>
+            <li>Display task list dynamically</li>
+            <li>Show motivational image or video beside the task list</li>
+        </ul>
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 

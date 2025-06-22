@@ -53,6 +53,7 @@ return (
           </li>
         ))}
       </ul>
+      <img src="/images/productivity.jpg" alt="Stay Productive" width="300" />
     </div>
 );
           </code></pre>

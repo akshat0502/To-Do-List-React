@@ -59,6 +59,21 @@ return (
           </code></pre>
 
           <h2>Project Folder Structure:</h2>
+
+          <pre><code>
+todo-list/
+├── public/
+│   ├── index.html
+│   ├── images/
+│   │   └── productivity.jpg
+│   └── videos/
+│       └── focus.mp4
+├── src/
+│   ├── App.js
+│   ├── index.js
+│   └── components/
+│       └── TodoApp.js
+        </code></pre>
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 

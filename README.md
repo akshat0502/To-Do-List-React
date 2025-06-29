@@ -61,18 +61,18 @@ return (
           <h2>Project Folder Structure:</h2>
 
           <pre><code>
-todo-list/
-├── public/
-│   ├── index.html
-│   ├── images/
-│   │   └── productivity.jpg
-│   └── videos/
-│       └── focus.mp4
-├── src/
-│   ├── App.js
-│   ├── index.js
-│   └── components/
-│       └── TodoApp.js
+              todo-list/
+              ├── public/
+              │   ├── index.html
+              │   ├── images/
+              │   │   └── productivity.jpg
+              │   └── videos/
+              │       └── focus.mp4
+              ├── src/
+              │   ├── App.js
+              │   ├── index.js
+              │   └── components/
+              │       └── TodoApp.js
         </code></pre>
 
         <h2>Extras:</h2>

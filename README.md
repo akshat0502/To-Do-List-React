@@ -1,7 +1,10 @@
 <h1>
   <a href = "https://to-do-list-react-six-lime.vercel.app/">To Do List using React</a>
 </h1>
-<p>This guide outlines how to create a To-Do List application using React JS. This app will include features to add, remove, and mark tasks as complete. It will also include media support with images and videos.</p>
+<p>
+    A simple, feature-rich to-do list web application built with <strong>React</strong>. 
+    Keep track of your tasks efficiently with add, update, delete, and persistence functionality.
+  </p>
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 <h2>Steps to Build and Run:</h2>

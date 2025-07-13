@@ -5,8 +5,8 @@
     A simple, feature-rich to-do list web application built with <strong>React</strong>. 
     Keep track of your tasks efficiently with add, update, delete, and persistence functionality.
   </p>
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+<h2>🚀 Demo</h2>
 <h2>Steps to Build and Run:</h2>
 <ol>
             <li><b>Install Node.js:</b> Download and install Node.js from <a href="https://nodejs.org/">https://nodejs.org/</a>.</li>

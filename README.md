@@ -9,7 +9,7 @@
 <h2>🚀 Demo</h2>
 <p>
   The app is live and can be viewed here: <br />
-  <a href="#" target="_blank">Live Demo</a> <!-- Replace # with actual link -->
+  <a href="https://to-do-list-react-six-lime.vercel.app/" target="_blank">Live Demo</a> <!-- Replace # with actual link -->
 </p>
 <h2>🧱 Tech Stack</h2>
 

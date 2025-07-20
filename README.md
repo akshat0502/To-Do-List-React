@@ -8,8 +8,9 @@
 
 <h2>🚀 Demo</h2>
 <p>
-    The app is live and can be viewed here: <br />
-  </p>
+  The app is live and can be viewed here: <br />
+  <a href="#" target="_blank">Live Demo</a> <!-- Replace # with actual link -->
+</p>
 
 <h2>Steps to Build and Run:</h2>
 <ol>

@@ -17,6 +17,7 @@
     <li><strong>JavaScript (ES6+)</strong></li>
     <li><strong>CSS</strong> for styling</li>
     <li><strong>LocalStorage</strong> for data persistence</li>
+    <li><strong>Create React App</strong></li>
   </ul>
 
 

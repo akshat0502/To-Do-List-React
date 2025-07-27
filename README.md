@@ -12,6 +12,12 @@
   <a href="https://to-do-list-react-six-lime.vercel.app/" target="_blank">Live Demo</a> <!-- Replace # with actual link -->
 </p>
 <h2>🧱 Tech Stack</h2>
+<ul>
+    <li><strong>React</strong> (functional components + hooks)</li>
+  
+  </ul>
+
+
 
 <h2>Steps to Build and Run:</h2>
 <ol>

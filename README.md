@@ -15,6 +15,7 @@
 <ul>
     <li><strong>React</strong> (functional components + hooks)</li>
     <li><strong>JavaScript (ES6+)</strong></li>
+    <li><strong>CSS</strong> for styling</li>
     
   
   </ul>

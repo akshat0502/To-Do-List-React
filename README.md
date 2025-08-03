@@ -19,6 +19,7 @@
     <li><strong>LocalStorage</strong> for data persistence</li>
     <li><strong>Create React App</strong></li>
   </ul>
+  <h2>✨ Features</h2>
 
 
 

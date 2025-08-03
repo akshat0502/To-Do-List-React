@@ -22,6 +22,7 @@
   <h2>✨ Features</h2>
   <ul>
     <li>🔹 Add tasks dynamically</li>
+    <li>✏️ Edit tasks in place</li>
     
   </ul>
 

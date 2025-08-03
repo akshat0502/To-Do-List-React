@@ -23,6 +23,7 @@
   <ul>
     <li>🔹 Add tasks dynamically</li>
     <li>✏️ Edit tasks in place</li>
+    <li>❌ Delete tasks</li>
     
   </ul>
 

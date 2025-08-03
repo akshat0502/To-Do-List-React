@@ -20,7 +20,10 @@
     <li><strong>Create React App</strong></li>
   </ul>
   <h2>✨ Features</h2>
-
+  <ul>
+    <li>🔹 Add tasks dynamically</li>
+    
+  </ul>
 
 
 <h2>Steps to Build and Run:</h2>

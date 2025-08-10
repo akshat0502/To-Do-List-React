@@ -30,6 +30,11 @@
     <li>🧩 Easy state management using React Hooks</li>
   </ul>
   <h2>📁 Project Structure</h2>
+  <pre><code>
+/public
+  └── index.html
+  </code></pre>
+
 
 <h2>Steps to Build and Run:</h2>
 <ol>

@@ -27,7 +27,7 @@
     <li>🧠 Persistent data via <code>localStorage</code></li>
     <li>✅ Mark tasks as complete/incomplete</li>
     <li>📋 Clear all completed tasks</li>
-    
+    <li>🧩 Easy state management using React Hooks</li>
   </ul>
 
 

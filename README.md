@@ -25,6 +25,7 @@
     <li>✏️ Edit tasks in place</li>
     <li>❌ Delete tasks</li>
     <li>🧠 Persistent data via <code>localStorage</code></li>
+    <li>✅ Mark tasks as complete/incomplete</li>
     
   </ul>
 

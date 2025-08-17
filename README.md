@@ -33,6 +33,16 @@
   <pre><code>
 /public
   └── index.html
+/src
+  ├── components/
+  │     ├── TodoForm.jsx        # For adding and editing tasks
+  │     ├── TodoItem.jsx        # Represents each task
+  │     └── TodoList.jsx        # Container for task list
+  ├── App.js                   # Root component
+  └── index.js                 # Entry point
+.gitignore
+package.json
+README.md
   </code></pre>
 
 

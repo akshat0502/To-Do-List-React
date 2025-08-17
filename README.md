@@ -44,7 +44,7 @@
 package.json
 README.md
   </code></pre>
-
+<h2>🔧 Installation & Setup</h2>
 
 <h2>Steps to Build and Run:</h2>
 <ol>

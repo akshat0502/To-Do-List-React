@@ -45,7 +45,13 @@ package.json
 README.md
   </code></pre>
 <h2>🔧 Installation & Setup</h2>
+<ol>
+    <li>Clone the repo:
+      <pre><code>git clone https://github.com/akshat0502/To-Do-List-React.git
+cd To-Do-List-React</code></pre>
+    </li>
 
+  </ol>
 <h2>Steps to Build and Run:</h2>
 <ol>
             <li><b>Install Node.js:</b> Download and install Node.js from <a href="https://nodejs.org/">https://nodejs.org/</a>.</li>

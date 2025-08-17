@@ -50,7 +50,11 @@ README.md
       <pre><code>git clone https://github.com/akshat0502/To-Do-List-React.git
 cd To-Do-List-React</code></pre>
     </li>
-
+    <li>Install dependencies:
+      <pre><code>npm install
+# or
+yarn install</code></pre>
+    </li>
   </ol>
 <h2>Steps to Build and Run:</h2>
 <ol>

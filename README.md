@@ -55,7 +55,16 @@ cd To-Do-List-React</code></pre>
 # or
 yarn install</code></pre>
     </li>
+  <li>Start development server:
+      <pre><code>npm start
+# or
+yarn start</code></pre>
+    </li>
   </ol>
+
+
+
+  
 <h2>Steps to Build and Run:</h2>
 <ol>
             <li><b>Install Node.js:</b> Download and install Node.js from <a href="https://nodejs.org/">https://nodejs.org/</a>.</li>
@@ -69,6 +78,7 @@ Currently, two official plugins are available:
   <li><b>Start the App:</b>
                 <pre><code>npm start</code></pre>
             </li>
+  
         </ol>
         <h2>Core Features to Implement:</h2>
         <ul>

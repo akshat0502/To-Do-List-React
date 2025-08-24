@@ -64,6 +64,7 @@ yarn start</code></pre>
 <h2>🛠 Usage</h2>
 <ul>
   <li>Type a task and press <strong>Enter</strong> or click <strong>Add</strong>.</li>
+  <li>Click a task to mark it complete/incomplete.</li>
 </ul>
 
   

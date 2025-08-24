@@ -62,7 +62,9 @@ yarn start</code></pre>
     </li>
   </ol>
 <h2>🛠 Usage</h2>
-
+<ul>
+  <li>Type a task and press <strong>Enter</strong> or click <strong>Add</strong>.</li>
+</ul>
 
   
 <h2>Steps to Build and Run:</h2>

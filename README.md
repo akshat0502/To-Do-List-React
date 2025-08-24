@@ -66,6 +66,7 @@ yarn start</code></pre>
   <li>Type a task and press <strong>Enter</strong> or click <strong>Add</strong>.</li>
   <li>Click a task to mark it complete/incomplete.</li>
   <li>Edit a task using the ✏️ icon.</li>
+  <li>Delete using ❌ icon.</li>
 </ul>
 
   

@@ -67,6 +67,7 @@ yarn start</code></pre>
   <li>Click a task to mark it complete/incomplete.</li>
   <li>Edit a task using the ✏️ icon.</li>
   <li>Delete using ❌ icon.</li>
+  <li>Click <strong>Clear Completed</strong> to remove completed tasks.</li>
 </ul>
 
   

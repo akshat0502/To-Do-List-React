@@ -77,7 +77,7 @@ yarn build</code></pre>
 <p>
     Deploy the contents of the <code>/build</code> folder to any static hosting service (Netlify, GitHub Pages, Vercel).
   </p>
-
+ <h2>🤝 Contributing</h2>
 
   
 <h2>Steps to Build and Run:</h2>

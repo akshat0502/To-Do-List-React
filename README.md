@@ -69,6 +69,8 @@ yarn start</code></pre>
   <li>Delete using ❌ icon.</li>
   <li>Click <strong>Clear Completed</strong> to remove completed tasks.</li>
 </ul>
+  <h2>🧩 Deployment</h2>
+
 
   
 <h2>Steps to Build and Run:</h2>

@@ -71,7 +71,9 @@ yarn start</code></pre>
 </ul>
   <h2>🧩 Deployment</h2>
 <p>To build for production:</p>
-
+<pre><code>npm run build
+# or
+yarn build</code></pre>
   
 <h2>Steps to Build and Run:</h2>
 <ol>

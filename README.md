@@ -70,7 +70,7 @@ yarn start</code></pre>
   <li>Click <strong>Clear Completed</strong> to remove completed tasks.</li>
 </ul>
   <h2>🧩 Deployment</h2>
-
+<p>To build for production:</p>
 
   
 <h2>Steps to Build and Run:</h2>

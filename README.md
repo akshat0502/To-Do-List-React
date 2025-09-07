@@ -81,6 +81,7 @@ yarn build</code></pre>
 <ol>
     <li>Fork the repository</li>
     <li>Create a branch: <code>git checkout -b feature/your-feature</code></li>
+    <li>Commit changes: <code>git commit -m "feat: add feature"</code></li>
     
   </ol>
 

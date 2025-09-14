@@ -89,7 +89,7 @@ yarn build</code></pre>
 <p>This project is open-source. Feel free to use, modify, and distribute as needed.</p>
 <h2>👤 Author</h2>
 <p>Developed by <strong>Akshat</strong>. <br />Reach out via GitHub issues or discussions for questions and ideas.</p>
-
+<h3>🔧 Suggestions</h3>
 
   
 <h2>Steps to Build and Run:</h2>

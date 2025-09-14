@@ -85,7 +85,7 @@ yarn build</code></pre>
     <li>Push: <code>git push origin feature/your-feature</code></li>
     <li>Open a pull request</li>
   </ol>
-
+<h2>📝 License</h2>
   
 <h2>Steps to Build and Run:</h2>
 <ol>

@@ -87,7 +87,7 @@ yarn build</code></pre>
   </ol>
 <h2>📝 License</h2>
 <p>This project is open-source. Feel free to use, modify, and distribute as needed.</p>
-
+<h2>👤 Author</h2>
 
 
   

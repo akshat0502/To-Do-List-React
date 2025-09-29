@@ -90,7 +90,9 @@ yarn build</code></pre>
 <h2>👤 Author</h2>
 <p>Developed by <strong>Akshat</strong>. <br />Reach out via GitHub issues or discussions for questions and ideas.</p>
 <h3>🔧 Suggestions</h3>
-
+  <ul>
+    <li>Add unit tests using Jest/React Testing Library</li>
+  </ul>
   
 <h2>Steps to Build and Run:</h2>
 <ol>

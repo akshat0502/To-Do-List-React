@@ -93,6 +93,8 @@ yarn build</code></pre>
   <ul>
     <li>Add unit tests using Jest/React Testing Library</li>
     <li>Implement filtering (All, Active, Completed)</li>
+    <li>Add drag-and-drop for reordering</li>
+    
   </ul>
   
 <h2>Steps to Build and Run:</h2>

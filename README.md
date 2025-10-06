@@ -175,4 +175,3 @@ return (
             <li>Implement filtering (All, Active, Completed)</li>
             <li>Add localStorage or useContext for state persistence</li>
         </ul>
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

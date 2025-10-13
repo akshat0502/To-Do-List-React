@@ -172,5 +172,4 @@ return (
         <h2>Extras:</h2>
         <ul>
             <li>Use Tailwind CSS or Bootstrap for responsive design</li>
-            <li>Implement filtering (All, Active, Completed)</li>
         </ul>

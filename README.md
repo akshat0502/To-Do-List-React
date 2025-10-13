@@ -173,5 +173,4 @@ return (
         <ul>
             <li>Use Tailwind CSS or Bootstrap for responsive design</li>
             <li>Implement filtering (All, Active, Completed)</li>
-            <li>Add localStorage or useContext for state persistence</li>
         </ul>

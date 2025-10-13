@@ -168,7 +168,3 @@ return (
               │   └── components/
               │       └── TodoApp.js
         </code></pre>
-
-        <ul>
-            <li>Use Tailwind CSS or Bootstrap for responsive design</li>
-        </ul>

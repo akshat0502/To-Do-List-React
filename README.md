@@ -152,5 +152,4 @@ return (
 );
           </code></pre>
 
-          <h2>Project Folder Structure:</h2>
 

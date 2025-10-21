@@ -154,6 +154,3 @@ return (
 
           <h2>Project Folder Structure:</h2>
 
-          <pre><code>
-  
-        </code></pre>

@@ -156,12 +156,6 @@ return (
 
           <pre><code>
              
-              ├── public/
-              │   ├── index.html
-              │   ├── images/
-              │   │   └── productivity.jpg
-              │   └── videos/
-              │       └── focus.mp4
               ├── src/
               │   ├── App.js
               │   ├── index.js

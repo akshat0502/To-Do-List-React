@@ -155,7 +155,7 @@ return (
           <h2>Project Folder Structure:</h2>
 
           <pre><code>
-              todo-list/
+             
               ├── public/
               │   ├── index.html
               │   ├── images/

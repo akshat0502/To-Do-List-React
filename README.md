@@ -155,10 +155,5 @@ return (
           <h2>Project Folder Structure:</h2>
 
           <pre><code>
-             
-              ├── src/
-              │   ├── App.js
-              │   ├── index.js
-              │   └── components/
-              │       └── TodoApp.js
+  
         </code></pre>

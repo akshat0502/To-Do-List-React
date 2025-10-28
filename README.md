@@ -142,9 +142,7 @@ return (
       <button onClick={addTask}>Add Task</button>
       <ul>
         {tasks.map((t, i) => (
-          <li key={i} style={{ textDecoration: t.done ? "line-through" : "none" }} onClick={() => toggleTask(i)}>
-            {t.text}
-          </li>
+          
         ))}
       </ul>
     </div>          </code></pre>

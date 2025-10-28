@@ -138,9 +138,7 @@ Currently, two official plugins are available:
 return (
     <div>
       <h2>My To-Do List</h2>
-      <input value={task} onChange={(e) => setTask(e.target.value)} placeholder="New task..." />
-      <button onClick={addTask}>Add Task</button>
-      </ul>
+    
     </div>          </code></pre>
 
 

@@ -131,10 +131,6 @@ Currently, two official plugins are available:
       setTask("");
     }
   };
-          const toggleTask = (index) => {
-    const newTasks = tasks.map((t, i) => i === index ? { ...t, done: !t.done } : t);
-    setTasks(newTasks);
-  };
     <div>
     
     </div>          </code></pre>

@@ -125,7 +125,6 @@ Currently, two official plugins are available:
           function TodoApp() {
             const [tasks, setTasks] = useState([]);
             const [task, setTask] = useState("");
-          const addTask = () => {
   };
     <div>
     

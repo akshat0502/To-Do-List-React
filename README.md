@@ -126,10 +126,6 @@ Currently, two official plugins are available:
             const [tasks, setTasks] = useState([]);
             const [task, setTask] = useState("");
           const addTask = () => {
-    if (task.trim()) {
-      setTasks([...tasks, { text: task, done: false }]);
-      setTask("");
-    }
   };
     <div>
     

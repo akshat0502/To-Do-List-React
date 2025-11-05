@@ -135,7 +135,6 @@ Currently, two official plugins are available:
     const newTasks = tasks.map((t, i) => i === index ? { ...t, done: !t.done } : t);
     setTasks(newTasks);
   };
-return (
     <div>
     
     </div>          </code></pre>

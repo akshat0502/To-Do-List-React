@@ -137,7 +137,6 @@ Currently, two official plugins are available:
   };
 return (
     <div>
-      <h2>My To-Do List</h2>
     
     </div>          </code></pre>
 

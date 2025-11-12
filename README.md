@@ -121,8 +121,6 @@ Currently, two official plugins are available:
             <li>Show motivational image or video beside the task list</li>
         </ul>
         <h2>Sample Component:</h2>
-        <pre><code>{`
-          function TodoApp()
-        </code></pre>
+        <pre><code>        </code></pre>
 
 

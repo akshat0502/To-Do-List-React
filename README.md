@@ -122,9 +122,7 @@ Currently, two official plugins are available:
         </ul>
         <h2>Sample Component:</h2>
         <pre><code>{`
-          function TodoApp() {
-           
-  };
+          function TodoApp()
         </code></pre>
 
 

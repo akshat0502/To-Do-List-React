@@ -123,8 +123,7 @@ Currently, two official plugins are available:
         <h2>Sample Component:</h2>
         <pre><code>{`
           function TodoApp() {
-            const [tasks, setTasks] = useState([]);
-            const [task, setTask] = useState("");
+           
   };
         </code></pre>
 

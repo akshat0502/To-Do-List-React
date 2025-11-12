@@ -126,8 +126,6 @@ Currently, two official plugins are available:
             const [tasks, setTasks] = useState([]);
             const [task, setTask] = useState("");
   };
-    <div>
-    
-    </div>          </code></pre>
+        </code></pre>
 
 

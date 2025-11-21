@@ -118,7 +118,6 @@ Currently, two official plugins are available:
             <li>Delete task</li>
             <li>Mark task as completed</li>
             <li>Display task list dynamically</li>
-            <li>Show motivational image or video beside the task list</li>
         </ul>
 
 

@@ -120,6 +120,5 @@ Currently, two official plugins are available:
             <li>Display task list dynamically</li>
             <li>Show motivational image or video beside the task list</li>
         </ul>
-        <h2>Sample Component:</h2>
 
 

@@ -116,7 +116,6 @@ Currently, two official plugins are available:
         <ul>
             <li>Add task</li>
             <li>Delete task</li>
-            <li>Mark task as completed</li>
         </ul>
 
 

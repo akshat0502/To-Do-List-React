@@ -117,7 +117,6 @@ Currently, two official plugins are available:
             <li>Add task</li>
             <li>Delete task</li>
             <li>Mark task as completed</li>
-            <li>Display task list dynamically</li>
         </ul>
 
 

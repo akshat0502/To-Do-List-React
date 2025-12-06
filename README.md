@@ -108,7 +108,6 @@ Currently, two official plugins are available:
                 <pre><code>cd todo-list</code></pre>
             </li>
   <li><b>Start the App:</b>
-                <pre><code>npm start</code></pre>
             </li>
   
         </ol>

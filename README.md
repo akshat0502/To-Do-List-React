@@ -115,7 +115,6 @@ Currently, two official plugins are available:
         <h2>Core Features to Implement:</h2>
         <ul>
             <li>Add task</li>
-            <li>Delete task</li>
         </ul>
 
 

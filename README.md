@@ -113,7 +113,6 @@ Currently, two official plugins are available:
         </ol>
         <h2>Core Features to Implement:</h2>
         <ul>
-            <li>Add task</li>
         </ul>
 
 

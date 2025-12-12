@@ -110,4 +110,3 @@ Currently, two official plugins are available:
   <li><b>Start the App:</b>
             </li>
   
-        </ol>

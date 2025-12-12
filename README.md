@@ -111,4 +111,3 @@ Currently, two official plugins are available:
             </li>
   
         </ol>
-        <h2>Core Features to Implement:</h2>

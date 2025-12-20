@@ -102,6 +102,5 @@ yarn build</code></pre>
             <li><b>Install Node.js:</b> Download and install Node.js from <a href="https://nodejs.org/">https://nodejs.org/</a>.</li>
 Currently, two official plugins are available:
 <li><b>Create a React App:</b>
-                <pre><code>npx create-react-app todo-list</code></pre>
             </li>
   

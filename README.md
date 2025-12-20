@@ -101,6 +101,5 @@ yarn build</code></pre>
 <ol>
             <li><b>Install Node.js:</b> Download and install Node.js from <a href="https://nodejs.org/">https://nodejs.org/</a>.</li>
 Currently, two official plugins are available:
-<li><b>Create a React App:</b>
-            </li>
+
   

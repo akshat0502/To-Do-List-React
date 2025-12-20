@@ -105,6 +105,5 @@ Currently, two official plugins are available:
                 <pre><code>npx create-react-app todo-list</code></pre>
             </li>
   <li><b>Navigate into the Project Folder:</b>
-                <pre><code>cd todo-list</code></pre>
             </li>
   

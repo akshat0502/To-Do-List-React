@@ -104,6 +104,4 @@ Currently, two official plugins are available:
 <li><b>Create a React App:</b>
                 <pre><code>npx create-react-app todo-list</code></pre>
             </li>
-  <li><b>Navigate into the Project Folder:</b>
-            </li>
   

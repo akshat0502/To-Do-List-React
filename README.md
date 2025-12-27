@@ -98,6 +98,4 @@ yarn build</code></pre>
   </ul>
   
 <h2>Steps to Build and Run:</h2>
-<ol>
-            <li><b>Install Node.js:</b> Download and install Node.js from <a href="https://nodejs.org/">https://nodejs.org/</a>.</li>
-  
+<ol>  

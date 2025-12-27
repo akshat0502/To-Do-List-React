@@ -98,4 +98,3 @@ yarn build</code></pre>
   </ul>
   
 <h2>Steps to Build and Run:</h2>
-<ol>  

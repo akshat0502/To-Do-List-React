@@ -92,6 +92,5 @@ yarn build</code></pre>
 <h3>🔧 Suggestions</h3>
   <ul>
     <li>Add unit tests using Jest/React Testing Library</li>
-    <li>Implement filtering (All, Active, Completed)</li>
   </ul>
   

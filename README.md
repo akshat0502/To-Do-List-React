@@ -97,4 +97,3 @@ yarn build</code></pre>
     <li>Try Context API or Redux for global state</li>
   </ul>
   
-<h2>Steps to Build and Run:</h2>
